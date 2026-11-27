@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Carpetas de compilación de PyInstaller
+build/
+dist/
+
+# Archivos ejecutables locales (para compartir ejecutables usa GitHub Releases)
+*.exe
+*.bak
+
+# Archivos de datos Excel locales y temporales (evitar subir datos sensibles de clientes/precios)
+*.xlsx
+*.xls
+*.csv
+0BA4E100
+5EAFA400
+5F05E100
+~$*
+
+# Carpetas de resultados generadas por las pruebas
+CYC/
+Mostrador/
+Prueba/
+Descuentos_*/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
